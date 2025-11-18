@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Hamoda</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">Detail-oriented and motivated Computer Science graduate with hands-on experience in Web Development, AI, computer vision,
+and embedded systems. Proven ability to lead and contribute to projects such as real-time safety robotics and sign language
+education applications. Strong foundation in software development, hardware integration, and collaborative problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziad7amoda&label=Profile%20views&color=0e75b6&style=flat" alt="ziad7amoda" /> </p>
 
