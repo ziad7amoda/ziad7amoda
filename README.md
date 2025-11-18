@@ -9,7 +9,7 @@ education applications. Strong foundation in software development, hardware inte
 
 - 📫 How to reach me **ziad7amoda@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14a_ma0j_680aCMyUI4EWD9pOBhRkFC8b/view?usp=sharing](https://drive.google.com/file/d/14a_ma0j_680aCMyUI4EWD9pOBhRkFC8b/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/14a_ma0j_680aCMyUI4EWD9pOBhRkFC8b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
